@@ -10,7 +10,6 @@ This is made to make your day to day work easier!
 
 3. Download the script (.ahk file) and double click on it 
    or Right click --> Run Script
-   
-The green colour "H" letter will appear at the bottom of the screen and that's it!
 
-You can right click on the downloaded files and *edit* it to make it easier and *change the directories according to your need* 
+
+You can right click on the downloaded file and **edit** it to make it easier and **change the directories according to your need**
