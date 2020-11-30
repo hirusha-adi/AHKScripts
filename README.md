@@ -15,6 +15,5 @@ This is made to make your day to day work easier!
 You can right click on the downloaded file and **edit** it to make it easier and **change the directories according to your need**
 
 Follow me on instagram : https://www.instagram.com/hirusha.adikari/
-Follow me on Twitter : https://twitter.com/hirusha_adikari
 Subscribe me in YouTube : https://www.youtube.com/channel/UC6rhQaniYiHId_x7HsHbX_A
 
